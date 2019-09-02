@@ -1,0 +1,12 @@
+Proximal tibia tumour, full segmental.
+Tumour margin 10 mm.
+Proximal flange fixation.
+Distal flange and stem fixation.
+2D conformal cuts, robot assistance required.
+Maximum cut depth 45 mm, 50 mm router required.
+
+Please confirm:
+Margins
+Stem fixation
+Flange positioning
+Additional features?
